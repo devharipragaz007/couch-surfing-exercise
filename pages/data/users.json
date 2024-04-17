@@ -1,0 +1,252 @@
+[
+    {
+      "id": "661fbb26ae687ea41645cceb",
+      "name": "Deloris Cantrell",
+      "gender": "female",
+      "company": "QUALITEX",
+      "email": "deloriscantrell@qualitex.com",
+      "phone": "+1 (800) 587-3048",
+      "address": "203 Woodbine Street, Convent, Maryland, 9601",
+      "about": "Nulla cillum proident eiusmod nulla nisi deserunt nisi pariatur non amet dolor ullamco eiusmod. Ex sint magna proident proident sint sint aliqua est anim sint. Elit quis eu laboris sunt ea exercitation. Pariatur do reprehenderit Lorem ex elit occaecat.\r\n",
+      "registered": "2023-08-09T01:14:19 +06:00",
+      "friends": [
+        {
+          "id": "661fbb26908174c84e5d9d80",
+          "name": "Hobbs Cole"
+        },
+        {
+          "id": "661fbb26299bd75fed6df310",
+          "name": "Margret Houston"
+        },
+        {
+          "id": "661fbb26d48f9df60257a997",
+          "name": "Morin Alvarez"
+        }
+      ]
+    },
+    {
+      "id": "661fbb26908174c84e5d9d80",
+      "name": "Hobbs Cole",
+      "gender": "male",
+      "company": "BICOL",
+      "email": "hobbscole@bicol.com",
+      "phone": "+1 (885) 488-3371",
+      "address": "652 Lynch Street, Ona, Wisconsin, 9438",
+      "about": "Adipisicing in ut velit culpa id ex occaecat. Dolore eu adipisicing id Lorem elit nisi in ex eu Lorem consectetur. Ut eu excepteur eiusmod amet. Ullamco exercitation veniam esse commodo ea dolor amet incididunt commodo mollit laborum veniam commodo ea. Nisi consequat eiusmod magna magna ut. Dolor ex fugiat ad pariatur culpa dolor eiusmod. Aliqua duis voluptate elit ad velit.\r\n",
+      "registered": "2022-01-26T06:59:44 +06:00",
+      "friends": [
+        {
+          "id": "661fbb26f9ebd1c71546b6c7",
+          "name": "Marion Calhoun"
+        },
+        {
+          "id": "661fbb26ae687ea41645cceb",
+          "name": "Deloris Cantrell"
+        },
+        {
+          "id": "661fbb260a3ae3a93ebc0d26",
+          "name": "Stacey Rice"
+        }
+      ]
+    },
+    {
+      "id": "661fbb26f9ebd1c71546b6c7",
+      "name": "Marion Calhoun",
+      "gender": "female",
+      "company": "UNISURE",
+      "email": "marioncalhoun@unisure.com",
+      "phone": "+1 (950) 421-3616",
+      "address": "283 Front Street, Yonah, District Of Columbia, 565",
+      "about": "Excepteur ut consequat in reprehenderit. Ex elit id id aliqua magna. Consequat cillum ea amet et laboris minim pariatur quis magna exercitation fugiat eu qui.\r\n",
+      "registered": "2017-05-27T08:23:04 +05:00",
+      "friends": [
+        {
+          "id": "661fbb26528c36329e7769cb",
+          "name": "Poole Nguyen"
+        },
+        {
+          "id": "661fbb26299bd75fed6df310",
+          "name": "Margret Houston"
+        },
+        {
+          "id": "661fbb26d48f9df60257a997",
+          "name": "Morin Alvarez"
+        }
+      ]
+    },
+    {
+      "id": "661fbb26528c36329e7769cb",
+      "name": "Poole Nguyen",
+      "gender": "male",
+      "company": "EXOTECHNO",
+      "email": "poolenguyen@exotechno.com",
+      "phone": "+1 (872) 518-2497",
+      "address": "640 Empire Boulevard, Shasta, Massachusetts, 869",
+      "about": "Lorem amet magna occaecat dolore deserunt. Tempor ea ea Lorem ullamco est laboris occaecat. Dolore labore enim magna cupidatat occaecat mollit quis adipisicing dolor culpa culpa.\r\n",
+      "registered": "2015-05-03T07:08:52 +05:00",
+      "friends": [
+        {
+          "id": "661fbb260a3ae3a93ebc0d26",
+          "name": "Stacey Rice"
+        },
+        {
+          "id": "661fbb26299bd75fed6df310",
+          "name": "Margret Houston"
+        },
+        {
+          "id": "661fbb26d48f9df60257a997",
+          "name": "Morin Alvarez"
+        }
+      ]
+    },
+    {
+      "id": "661fbb260a3ae3a93ebc0d26",
+      "name": "Stacey Rice",
+      "gender": "female",
+      "company": "CRUSTATIA",
+      "email": "staceyrice@crustatia.com",
+      "phone": "+1 (971) 531-3125",
+      "address": "823 Noel Avenue, Wakulla, Rhode Island, 7276",
+      "about": "Velit sint consequat esse id ea amet adipisicing culpa sunt elit. Laborum eu anim minim elit adipisicing dolor culpa deserunt laborum. Laborum labore ipsum aute enim id fugiat quis exercitation velit esse officia ullamco reprehenderit. Deserunt deserunt amet ipsum elit est magna amet do minim consequat eiusmod dolore ea cillum. Incididunt id officia nulla nulla culpa. Enim minim sit ipsum laboris velit ullamco mollit incididunt enim Lorem nostrud proident enim non. Id commodo mollit exercitation cillum sunt velit sint quis aliqua.\r\n",
+      "registered": "2021-10-23T09:48:42 +05:00",
+      "friends": [
+        {
+          "id": "661fbb26299bd75fed6df310",
+          "name": "Margret Houston"
+        },
+        {
+          "id": "661fbb26ae687ea41645cceb",
+          "name": "Deloris Cantrell"
+        },
+        {
+          "id": "661fbb26f9ebd1c71546b6c7",
+          "name": "Marion Calhoun"
+        }
+      ]
+    },
+    {
+      "id": "661fbb26299bd75fed6df310",
+      "name": "Margret Houston",
+      "gender": "female",
+      "company": "QUONATA",
+      "email": "margrethouston@quonata.com",
+      "phone": "+1 (873) 418-3902",
+      "address": "736 Fillmore Place, Manila, Ohio, 9762",
+      "about": "Laborum in consequat sunt qui nostrud. Consectetur ad labore amet eiusmod. Nisi ut proident aliquip Lorem deserunt nulla anim dolore laboris consequat nisi voluptate ipsum. Nulla quis cupidatat mollit consectetur culpa irure deserunt aliquip dolor eiusmod minim dolor magna in. Officia est et quis quis do irure veniam sint irure deserunt. Dolor ut id aliquip sint non ea. Laborum occaecat ex incididunt eiusmod voluptate voluptate occaecat exercitation veniam.\r\n",
+      "registered": "2016-07-08T03:25:18 +05:00",
+      "friends": [
+        {
+          "id": "661fbb26f9ebd1c71546b6c7",
+          "name": "Marion Calhoun"
+        },
+        {
+          "id": "661fbb267871fd5a343ab849",
+          "name": "Jeanette Craig"
+        },
+        {
+          "id": "661fbb2646fcc3bf3ae08563",
+          "name": "Lindsay Kirk"
+        }
+      ]
+    },
+    {
+      "id": "661fbb267871fd5a343ab849",
+      "name": "Jeanette Craig",
+      "gender": "female",
+      "company": "LYRICHORD",
+      "email": "jeanettecraig@lyrichord.com",
+      "phone": "+1 (810) 502-3023",
+      "address": "216 Coleman Street, Springhill, Wyoming, 6772",
+      "about": "Irure non nostrud aliquip minim esse irure in aliquip est esse aliquip. Veniam anim ullamco ullamco fugiat aliqua excepteur qui adipisicing voluptate exercitation aute. Enim cillum excepteur irure deserunt sit aliqua occaecat nostrud commodo in. Occaecat elit adipisicing duis esse aute non quis et minim officia.\r\n",
+      "registered": "2021-12-20T11:18:39 +06:00",
+      "friends": [
+        {
+          "id": "661fbb2646fcc3bf3ae08563",
+          "name": "Lindsay Kirk"
+        },
+        {
+          "id": "661fbb26299bd75fed6df310",
+          "name": "Margret Houston"
+        },
+        {
+          "id": "661fbb26ae687ea41645cceb",
+          "name": "Deloris Cantrell"
+        }
+      ]
+    },
+    {
+      "id": "661fbb2646fcc3bf3ae08563",
+      "name": "Lindsay Kirk",
+      "gender": "male",
+      "company": "EXODOC",
+      "email": "lindsaykirk@exodoc.com",
+      "phone": "+1 (949) 432-3370",
+      "address": "533 McKibben Street, Cucumber, Michigan, 176",
+      "about": "Dolore dolore ex culpa dolore fugiat. Incididunt eu irure aute cillum velit nisi. Incididunt Lorem incididunt Lorem cupidatat deserunt. Quis veniam laboris pariatur adipisicing. Ut laboris adipisicing amet aliquip in ea veniam dolor cillum adipisicing magna ipsum. Sit Lorem incididunt mollit laboris ullamco quis aliqua nostrud irure esse cupidatat sit esse laborum.\r\n",
+      "registered": "2017-07-07T01:38:53 +05:00",
+      "friends": [
+        {
+          "id": "661fbb261638c42384d1a215",
+          "name": "Laurel Mcknight"
+        },
+        {
+          "id": "661fbb26ae687ea41645cceb",
+          "name": "Deloris Cantrell"
+        },
+        {
+          "id": "661fbb267871fd5a343ab849",
+          "name": "Jeanette Craig"
+        }
+      ]
+    },
+    {
+      "id": "661fbb261638c42384d1a215",
+      "name": "Laurel Mcknight",
+      "gender": "female",
+      "company": "DELPHIDE",
+      "email": "laurelmcknight@delphide.com",
+      "phone": "+1 (868) 436-2941",
+      "address": "102 Waldorf Court, Hamilton, Missouri, 4076",
+      "about": "Officia cillum irure tempor sit labore qui veniam ipsum nisi. Nostrud veniam laborum dolore laborum ut cillum duis dolor aute et incididunt nostrud fugiat irure. Consequat ut velit laborum duis aliqua velit et.\r\n",
+      "registered": "2015-08-22T07:20:20 +05:00",
+      "friends": [
+        {
+          "id": "661fbb26d48f9df60257a997",
+          "name": "Morin Alvarez"
+        },
+        {
+          "id": "661fbb26299bd75fed6df310",
+          "name": "Margret Houston"
+        },
+        {
+          "id": "661fbb26f9ebd1c71546b6c7",
+          "name": "Marion Calhoun"
+        }
+      ]
+    },
+    {
+      "id": "661fbb26d48f9df60257a997",
+      "name": "Morin Alvarez",
+      "gender": "male",
+      "company": "INSOURCE",
+      "email": "morinalvarez@insource.com",
+      "phone": "+1 (866) 422-3631",
+      "address": "692 Duryea Place, Vicksburg, Nebraska, 7011",
+      "about": "Irure laborum laboris officia consequat nostrud elit reprehenderit deserunt ullamco do. Non esse excepteur mollit aliquip commodo eu proident mollit esse esse adipisicing ea non. Sunt fugiat eiusmod labore nisi sint minim elit aliqua qui nostrud deserunt exercitation et. Incididunt dolore aliquip ex dolore ex proident excepteur ad. Dolor ipsum dolore consequat nisi irure anim ex amet.\r\n",
+      "registered": "2022-07-11T04:56:21 +05:00",
+      "friends": [
+        {
+          "id": "661fbb26ae687ea41645cceb",
+          "name": "Deloris Cantrell"
+        },
+        {
+          "id": "661fbb261638c42384d1a215",
+          "name": "Laurel Mcknight"
+        },
+        {
+          "id": "661fbb26f9ebd1c71546b6c7",
+          "name": "Marion Calhoun"
+        }
+      ]
+    }
+  ]
